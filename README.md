@@ -8,6 +8,7 @@ This project investigates the feasibility of using statistical moment to perform
 ## Input Distribution
 Distribution is used to propagate the moments. Different input distribution will affect the prbabilistic outcomes, which may provide better estiamtion of the bounds. Power distribution is introduced to address the underestimation problem of uniform distribution and to improve the efficiency of the proposed method. Unlike the standard uniform distribution, power distribution provides more concentration at the tail. The shape of the distribution can be varied by user by changing the power parameter.<br>
 
+For further details, check the paper [here](https://ieeexplore.ieee.org/document/8409672)
 
 # Reference
 [1] S. M. Rump, INTLAB - INTerval LABoratory. Dordrecht: Kluwer Academic Publishers, 1999.<br>
