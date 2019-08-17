@@ -1,6 +1,3 @@
-# Created by https://www.gitignore.io/api/c,c++
-# Edit at https://www.gitignore.io/?templates=c,c++
-
 ### C ###
 # Prerequisites
 *.d
@@ -74,4 +71,3 @@ dkms.conf
 
 # Executables
 
-# End of https://www.gitignore.io/api/c,c++
